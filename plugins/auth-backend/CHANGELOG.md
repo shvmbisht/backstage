@@ -1,5 +1,20 @@
 # @backstage/plugin-auth-backend
 
+## 0.13.1-next.0
+
+### Patch Changes
+
+- cfc0f19699: Updated dependency `fs-extra` to `10.1.0`.
+- 787ae0d541: Add common signIn resolver to more providers.
+
+  - `providers.microsoft.resolvers.emailLocalPartMatchingUserEntityName()`
+  - `providers.okta.resolvers.emailLocalPartMatchingUserEntityName()`
+
+- 9ec4e0613e: Update to `jose` 4.6.0
+- Updated dependencies
+  - @backstage/backend-common@0.13.3-next.0
+  - @backstage/plugin-auth-node@0.2.1-next.0
+
 ## 0.13.0
 
 ### Minor Changes

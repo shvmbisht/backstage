@@ -1,5 +1,11 @@
 # @backstage/config-loader
 
+## 1.1.1-next.0
+
+### Patch Changes
+
+- cfc0f19699: Updated dependency `fs-extra` to `10.1.0`.
+
 ## 1.1.0
 
 ### Minor Changes

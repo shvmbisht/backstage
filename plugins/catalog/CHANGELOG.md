@@ -1,5 +1,17 @@
 # @backstage/plugin-catalog
 
+## 1.2.0-next.0
+
+### Minor Changes
+
+- ceca63d149: Added the prop `NotFoundComponent` to `EntityLayout` which can be used to include a custom component when an entity is not found in the catalog
+
+### Patch Changes
+
+- Updated dependencies
+  - @backstage/integration-react@1.1.0-next.0
+  - @backstage/plugin-catalog-react@1.0.2-next.0
+
 ## 1.1.0
 
 ### Minor Changes
